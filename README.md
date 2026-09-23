@@ -318,6 +318,5 @@ private addresses and resource IDs still visible identify nothing.
 ---
 
 **Eric González Rojas** — Madrid, Spain
-[LinkedIn] www.linkedin.com/in/eric-gonzalez-426603179
-
+[LinkedIn](https://www.linkedin.com/in/eric-gonzalez-426603179)
 
