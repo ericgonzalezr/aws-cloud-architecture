@@ -328,4 +328,6 @@ siguen visibles no identifican nada.
 ---
 
 **Eric González Rojas** — Madrid, España
-[LinkedIn](https://linkedin.com/in/TU-PERFIL)
+[LinkedIn]www.linkedin.com/in/eric-gonzalez-426603179
+
+
