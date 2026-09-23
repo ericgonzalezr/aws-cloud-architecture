@@ -327,4 +327,6 @@ infraestructura descrita fue destruida al finalizar el proyecto.
 ---
 
 **Eric González Rojas** — Madrid, España
-[LinkedIn](https://linkedin.com/in/TU-PERFIL)
+[LinkedIn] www.linkedin.com/in/eric-gonzalez-426603179
+
+
