@@ -319,4 +319,6 @@ destroyed at the end of the project.
 ---
 
 **Eric González Rojas** — Madrid, Spain
-[LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+[LinkedIn] www.linkedin.com/in/eric-gonzalez-426603179
+
+
